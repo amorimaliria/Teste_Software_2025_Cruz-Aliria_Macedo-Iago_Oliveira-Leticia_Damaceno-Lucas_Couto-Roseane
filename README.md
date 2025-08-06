@@ -1,7 +1,7 @@
 # Teste de Software 2025
 
 ## Descrição
-Este repositório analisa o artigo "A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair" da seção Program Repair, conforme solicitado na Atividade 2 da disciplina de Tesde de Software. A atividade envolve a resolução de 11 items com perguntas relacionadas ao artigo em questão e a criação de um tutorial sobre o processo.
+Este repositório analisa o artigo "A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair" da seção Program Repair, conforme solicitado na Atividade 2 da disciplina de Tesde de Software. A atividade envolve a resolução de 11 itens com perguntas relacionadas ao artigo em questão e a criação de um tutorial sobre o processo.
 
 ## Equipe
 Alíria Cruz;
