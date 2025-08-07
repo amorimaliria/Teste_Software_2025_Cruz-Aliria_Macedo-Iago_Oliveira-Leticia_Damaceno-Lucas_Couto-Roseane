@@ -15,5 +15,5 @@ Roseane Couto.
 - URL: [Artigo Selecionado](https://arxiv.org/abs/2304.08191)
 
 ## Tutorial
-- Documento PDF: O tutorial elaborado pela equipe para a atividade, contendo a resolução das questões, pode ser acessado através do link: [Tutorial.pdf](https://docs.google.com/document/d/1hDZbYzkAOsqmOHA5Y710U5CNVyYACu7kTKu3OYGjzec/edit?usp=sharing)
-- Vídeo: O tutorial em vídeo pode ser acessado através do link: [Tutorial em vídeo](https://www.canva.com/design/DAGqdUOZgKo/8_MIOj3y8OOQZ3sBa09mDA/watch?utm_content=DAGqdUOZgKo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9aa2f25b42) 
+- Documento PDF: O tutorial elaborado pela equipe para a atividade, contendo a resolução das questões, pode ser acessado através do link: [Tutorial.pdf](https://docs.google.com/document/d/1mhN7CqP3M1zHz2g0ZULitZI8z3UZcT9Dj_XnJGhDjIY/edit?usp=sharing)
+- Vídeo: O tutorial em vídeo pode ser acessado através do link: [Tutorial em vídeo](https://drive.google.com/file/d/1fvzDHWRbsXg7aKlo0jwrQ53g94RXy3vk/view?usp=sharing) 
